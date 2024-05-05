@@ -1,0 +1,4 @@
+# Project exclude paths
+/accounts/target/
+/loans/target/
+/cards/target/
